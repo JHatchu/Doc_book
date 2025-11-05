@@ -1,0 +1,10 @@
+com\doctorapp\controllers\AvailabilityController$AvailabilityResponse.class
+com\doctorapp\controllers\AvailabilityController.class
+com\doctorapp\models\AvailabilityDates.class
+com\doctorapp\services\AvailabilityService.class
+com\doctorapp\models\Doctor.class
+com\doctorapp\repositories\DoctorRepository.class
+com\doctorapp\controllers\AvailabilityController$AvailabilityCreateRequest.class
+com\doctorapp\services\DoctorService.class
+com\doctorapp\repositories\AvailabilityRepository.class
+com\doctorapp\DoctorAppApplication.class
